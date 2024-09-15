@@ -9,3 +9,8 @@ First file with headers
 ``` javascript
 var myVar = "Hello, everyoneee!";
 ```
+
+
+- [ ] Submit HW1
+- [ ] Create HW2 Jupyter notebook file
+- [ ] Link GitHub
